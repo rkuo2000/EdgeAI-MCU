@@ -5,4 +5,4 @@ Homework: Vibe Coding
 3. Connect your phone to AMB82-mini to use your App
 
 Delivery:
-[VibeCoding-ReadHTMLFile.ino]()
+[VibeCoding-ReadHTMLFile.ino](https://github.com/rkuo2000/EdgeAI-MCU/blob/main/VibeCoding_ReadHTMLFile.ino)
